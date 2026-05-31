@@ -20,13 +20,13 @@ else {
 
 function getCategorieClass(categorie) {
     switch (categorie) {
-        case 'Evenement':
+        case 'Évènement':
             return 'cat-evenement';
-        case 'Pedagogie':
+        case 'Pédagogie':
             return 'cat-pedagogie';
         case 'Vie de campus':
             return 'cat-campus'
-        case 'Amelioration technique':
+        case 'Amélioration technique':
             return 'cat-amelioration';
         default:
             return 'cat-pedagogie';
