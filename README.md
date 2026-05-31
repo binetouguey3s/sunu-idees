@@ -1,6 +1,6 @@
 # Sunu-Idees
 
-Sunu-Idees est une petite application web de mur d'idees collaboratif pour la promo P9. Elle permet de proposer, afficher, modifier et supprimer des idees directement dans le navigateur.
+Sunu-Idées est une petite application web de mur d'idees collaboratif pour la promo P9. Elle permet de proposer, afficher, modifier et supprimer des idees directement dans le navigateur.
 
 ## Lien du projet deploye
 - https://sunu-idees-sandy.vercel.app/
